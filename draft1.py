@@ -18,7 +18,7 @@ from tensorflow.keras.utils import to_categorical
 # Here is where we load the dataset we plan to use. We found a suitable one from Kaggle, but we're still looking around
 df = pd.read_csv('') #We will be loading it later
 
-# Since the scope of our project is smaller than similar projects, we will be setting limits
+#Due to the comparatively smaller scale of our project in comparison to similar endeavors, we have decided to establish constraints.
 max_words = 5000
 max_length = 100
 
