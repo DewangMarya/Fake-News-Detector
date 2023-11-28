@@ -11,7 +11,7 @@ Although we have worked on the code for a while now, we haven't pushed anything 
 This topic is very broad, so we're trying a different approach. We're trying it out with different models, and that's why the first file is called the draft1.py, as it is going to need a lot of changes.
 
 
-### Used References: ###
+### References ###
 
 Brownlee, J. (2022). Difference Between a Batch and an Epoch in a Neural Network. Machine Learning Mastery. https://machinelearningmastery.com/difference-between-a-batch-and-an-epoch/
 
