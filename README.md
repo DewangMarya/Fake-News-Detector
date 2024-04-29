@@ -1,9 +1,9 @@
 # Fake news detection #
 This project was completed as a group.
-Members - Dewang Marya
-          Jasjeet Singh
-          Amisha
-          Vrinda
+Members - Dewang Marya,
+          Jasjeet Singh,
+          Amisha,
+          Vrinda,
           Mithun KrishnaPrasad
           
 ### Programming Language ###
